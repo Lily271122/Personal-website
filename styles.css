@@ -13,6 +13,10 @@ img:hover {
 }
 a {
   color: #11999E;
+  text-decoration: none;
+}
+a:hover {
+  color: #66BFBF;
 }
 /**********Class selector********/
 .bacon {
