@@ -1,0 +1,61 @@
+/************Tag selectors********/
+h1 {
+  color: #53B8BB
+}
+h3 {
+  color: #53B8BB
+}
+hr {
+  border-color: #66BFBF
+}
+img:hover {
+  background-color: gold;
+}
+a {
+  color: #11999E;
+}
+/**********Class selector********/
+.bacon {
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
+.circular {
+  border-radius:100%
+}
+/**********ID selector************/
+#heading{
+  color: blue;
+}
+.Pea {
+  color: black;
+}
+.container {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: grey;
+}
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  }
